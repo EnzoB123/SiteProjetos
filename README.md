@@ -1,12 +1,11 @@
 ## Desenvolvido por Enzo Bottan Coutinho
 
-You can use the [editor on GitHub](https://github.com/EnzoB123/SiteProjetos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Site inicialmente criado para hostear projetos da disciplina [Experiência Criativa].
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projetos da disciplina
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lista com os projetos feitos durante a disciplina.
 
 ```markdown
 Link dos Projetos feitos:
@@ -21,10 +20,9 @@ Link dos Projetos feitos:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Outros Projetos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnzoB123/SiteProjetos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+www.google.com
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
