@@ -10,12 +10,12 @@ Lista com os projetos feitos durante a disciplina.
 ```markdown
 Link dos Projetos feitos:
 
-- www.google.com
+- [S.T.A.R.S.](https://objective-brown-e7b6c5.netlify.com/).
 - www.google.com.br
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](www.google.com) and ![Image](src)
+[Link](https://www.google.com) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
